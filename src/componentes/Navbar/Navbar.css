@@ -1,0 +1,46 @@
+nav{
+  background: rgb(255, 255, 255);
+  height: 80px;
+  width: 100%;
+}
+
+.logo{
+  height: 100px;
+  position: relative;
+  bottom: 15px;
+}
+
+label.logolabel{
+  line-height: 130px;
+  padding: 0 50px;
+  margin: 0 10px;
+}
+
+nav ul {
+  float: right;
+  margin-right: 20px;
+  
+}
+
+nav ul li {
+  display: inline-block;
+  line-height: 50px;
+  margin:0 10px;
+ 
+}
+
+nav ul li a {
+  color: rgb(0, 225, 255);
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  text-decoration:none;
+}
+
+a.active, a:hover{
+  background: rgb(0, 225, 255);
+  color: white;
+  transition: .5s;
+}
+

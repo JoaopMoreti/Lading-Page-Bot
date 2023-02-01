@@ -1,0 +1,32 @@
+
+h1{
+  color: rgb(0, 160, 198);
+  position: relative;
+  left: 260px;
+}
+
+h2{
+  position: relative;
+  left: 165px;
+  bottom: 30px;
+  color: rgb(0, 160, 198) ;
+}
+
+.paragrafos{
+  position: relative;
+  bottom: 30px;
+}
+
+p{
+  color: rgba(0, 255, 255, 0.959);
+}
+
+
+.AreaTexto{
+  position: relative;
+  top: 100px;
+}
+
+
+
+
